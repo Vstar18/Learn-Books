@@ -13,6 +13,7 @@
     #### JS
 
       * [《你不知道的JS》(上)](https://github.com/Vstar18/Learn-Books/issues/24)
+      * [《你不知道的JS》(中)](https://github.com/Vstar18/Learn-Books/issues/27)
       * 《 JavaScript设计模式与开发实践》
       * 《编写可维护的JavaScript》
       * 《JavaScript DOM编程艺术 （第2版）》
