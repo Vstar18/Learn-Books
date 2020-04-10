@@ -21,7 +21,7 @@
     #### CSS
 
       * 《CSS权威指南》
-      * 《CSS揭秘》
+      * [《CSS揭秘》](https://github.com/Vstar18/Learn-Books/issues/30)
 
     #### Node
       * 《深入浅出NodeJS》
