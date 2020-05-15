@@ -5,15 +5,21 @@
 
   * 2019.10-2019.11
   
-[《穷查理宝典》泛读笔记](https://github.com/Vstar18/Learn-Books/issues/1)
+[《穷查理宝典》泛读笔记](https://github.com/Vstar18/Learn-Books/issues/1) --超级推荐🌟🌟🌟🌟🌟
+[《彼特林奇的成功投资》泛读笔记](https://github.com/Vstar18/Learn-Books/issues/38) --超级推荐🌟🌟🌟🌟🌟
 
+#### 读后感
+
+ [《财富自由之路》](https://github.com/Vstar18/Learn-Books/issues/39) --超级推荐🌟🌟🌟🌟🌟
+ [《局外人》](https://github.com/Vstar18/Learn-Books/issues/40) --推荐🌟🌟🌟
+ [《如何高效学习》](https://github.com/Vstar18/Learn-Books/issues/41) --超级推荐🌟🌟🌟🌟🌟
 
 #### 书单
   * [技术-前端相关](https://github.com/Vstar18/Learn-Books/issues/3)
     #### JS
 
-      * [《你不知道的JS》(上)](https://github.com/Vstar18/Learn-Books/issues/24)
-      * [《你不知道的JS》(中)](https://github.com/Vstar18/Learn-Books/issues/27)
+      * [《你不知道的JS》(上)](https://github.com/Vstar18/Learn-Books/issues/24)--超级推荐🌟🌟🌟🌟🌟
+      * [《你不知道的JS》(中)](https://github.com/Vstar18/Learn-Books/issues/27)--超级推荐🌟🌟🌟🌟🌟
       * 《 JavaScript设计模式与开发实践》
       * 《编写可维护的JavaScript》
       * 《JavaScript DOM编程艺术 （第2版）》
@@ -27,7 +33,9 @@
       * 《深入浅出NodeJS》
 
     #### Vue
-      * [《Vue快跑》](https://github.com/Vstar18/Learn-Books/issues/18)
+
+      * [《Vue深入浅出》](https://github.com/Vstar18/Learn-Books/issues/37)--推荐🌟🌟🌟🌟
+      * [《Vue快跑》](https://github.com/Vstar18/Learn-Books/issues/18)--不推荐，小白可看🌟
     #### 重构&设计模式
       * 《设计模式》
       * 《Head First 设计模式》
