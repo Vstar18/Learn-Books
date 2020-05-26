@@ -49,6 +49,8 @@
       * 《设计模式》
       * 《Head First 设计模式》
       * [《重构: 改善既有代码的设计》](https://github.com/Vstar18/Learn-Books/issues/20)
+      * [《webpack实战》](https://github.com/Vstar18/Learn-Books/issues/45)
+      * [《白帽子讲web安全》](https://github.com/Vstar18/Learn-Books/issues/49)
   
   * [思维&学习方法](https://github.com/Vstar18/Learn-Books/issues/12)
       * 《从一到无穷大》
